@@ -72,7 +72,7 @@
 # user = int(input("enter the number for the fibonacci series"))
 # for i in range(user):
 #     series = fib(i)
-#     print(series, end=' ')
+#     print(series demo, end=' ')
     
     
     
